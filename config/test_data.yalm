@@ -1,0 +1,13 @@
+StartPage:
+  from: 'saint'
+  to: 'moscow'
+  start_date: '10.04.2017'
+  end_date: '30.04.2017'
+  adults: 2
+  children: 2
+  infants: 1
+  travel_class: 'Economy'
+  country: 'Russia'
+
+SelectFlights:
+  #?
